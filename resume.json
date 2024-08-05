@@ -1,0 +1,123 @@
+{
+    "name": "MADDI DINESH REDDY",
+    "contact_info": {
+        "phone": "+91-7997046279",
+        "email": "dineshmaddi2025@gmail.com",
+        "linkedin": "linkedin.com/in/Dinesh",
+        "github": "github.com/dineshmaddi25"
+    },
+    "education": [
+        {
+            "institution": "Lovely Professional University",
+            "location": "Punjab, India",
+            "degree": "Bachelor of Technology: Computer Science and Engineering",
+            "cgpa": "8.14 / 10",
+            "duration": "Aug 2021 – Present"
+        },
+        {
+            "institution": "Sri Chaitanya Junior Collage",
+            "location": "Andhra Pradesh, India",
+            "degree": "Senior Secondary Education",
+            "percentage": "90%",
+            "duration": "Jun 2019 – May 2021"
+        },
+        {
+            "institution": "Sri Chaitanya Schools",
+            "location": "Andhra Pradesh, India",
+            "degree": "Secondary Education",
+            "gpa": "10 / 10",
+            "duration": "Mar 2018 - Apr 2019"
+        }
+    ],
+    "projects": [
+        {
+            "name": "News-Hub Connect",
+            "link": "https://news-hubconnect.onrender.com/",
+            "description": "Engineered a cutting-edge news summarization platform leveraging Python's prowess and a bouquet of APIs. Employed the art of web scraping to pluck articles from the digital sea, then sprinkled them with the magic of natural language processing to distill rich insights into bite-sized nuggets. Crafted a captivating frontend oasis using Streamlit, guarded by the fortress of SQL for user authentication and data storage.",
+            "tech_stack": [
+                "Python",
+                "Web Scraping (Beautiful Soup, Scrapy)",
+                "Natural Language Processing (NLTK, Gensim)",
+                "APIs (such as News API)",
+                "Streamlit",
+                "SQL"
+            ],
+            "date": "Mar 2024"
+        },
+        {
+            "name": "Crypto-Wave",
+            "link": "",
+            "description": "Crypto-Wave is a platform revolutionizing cryptocurrency and NFT management. Operating on a secure blockchain foundation, Crypto-Wave provides a decentralized environment for transparent and immutable transactions. With smart contracts, cryptographic security, and seamless web framework integration, Crypto-Wave empowers users to securely tokenize assets, execute transactions, and explore the world of digital assets.",
+            "tech_stack": [
+                "Ethereum Blockchain",
+                "Python",
+                "JavaScript",
+                "HTML",
+                "CSS(SCSS)",
+                "SQLite",
+                "Web Framework(Flask)"
+            ],
+            "date": "Feb 2024"
+        },
+        {
+            "name": "Maya Voice Assistant",
+            "link": "https://github.com/dineshmaddi25/Maya-own-Voice-assistant",
+            "description": "An advanced voice assistant system developed in Python, Maya offers a comprehensive solution to streamline daily tasks and enhance communication. Equipped with cutting-edge speech recognition technology, Maya understands user commands and queries with precision, providing seamless interaction and deliver high-quality voice assistant solutions that exceed user expectations.",
+            "tech_stack": [
+                "Python",
+                "Speech Recognition (Google Speech Recognition)",
+                "Speech Synthesis (pyttsx3, gTTS)",
+                "APIs integration (OpenWeatherMap API)",
+                "Gemini Pro model"
+            ],
+            "date": "Jan 2024"
+        }
+    ],
+    "skills": [
+        "Python",
+        "Java",
+        "C++",
+        "SQL",
+        "Smart Contracts",
+        "Distributed Ledger Technology",
+        "Consensus Mechanisms",
+        "MySQL",
+        "Oracle DB",
+        "Microsoft Excel",
+        "Tableau",
+        "Cisco Packet Tracer",
+        "Linux System Administration",
+        "Docker",
+        "Git",
+        "GitHub",
+        "APIs"
+    ],
+    "certifications_achievements": [
+        {
+            "name": "Codekaze-Sept '23",
+            "description": "A nationwide coding event that celebrates the exceptional talents of coders. Ranked 4110th overall India, 25th in my college, and 3393rd among 24th year and above graduates."
+        },
+        {
+            "name": "Complete Machine Learning & Data Science Program",
+            "organization": "Geeks for Geeks",
+            "duration": "May 2023 – Nov 2023",
+            "description": "Developed a strong foundation in machine learning and data science principles. Completed the course in a span of 6 months including a 15+ small learning projects."
+        },
+        {
+            "name": "Tata Data Visualization: Empowering Business with Effective Insights",
+            "organization": "Forage",
+            "duration": "Aug 2023",
+            "description": "Completed a simulation involving creating data visualizations for Tata Consultancy Services."
+        },
+        {
+            "name": "Industrial Data Science Program",
+            "organization": "1stop",
+            "duration": "Nov 2022 – Jan 2023",
+            "description": "Projects Included in Certification: Hierarchical Clustering, Linear Discriminant Analysis."
+        },
+        {
+            "name": "Leetcode",
+            "description": "Demonstrated proficiency by successfully solving 300+ problems on Leetcode."
+        }
+    ]
+}
